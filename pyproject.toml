@@ -1,0 +1,6 @@
+[tool.isort]
+profile = "black"             # Match isort's style to black (avoids conflicts)
+
+[tool.flake8]
+max-line-length = 120         # Align with this project line length for harmony
+exclude = [".venv", "__pycache__", ".git"]  # Skip common non-code folders
