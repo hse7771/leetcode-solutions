@@ -49,7 +49,7 @@ def detect_languages(folder: str) -> Set[str]:
 
 def get_problems() -> Tuple[List[ProblemEntry], List[str]]:
     problems: List[ProblemEntry] = []
-    global_langs: Set[str] = set()
+    global_langs: Set[str] = {"Python"}
     for folder in sorted(os.listdir(".")):
         if not re.match(r"\d{4}-", folder):
             continue
