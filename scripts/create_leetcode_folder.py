@@ -3,6 +3,8 @@ import sys
 
 import requests
 
+PROBLEMS_DIR = "./problems"
+os.makedirs(PROBLEMS_DIR, exist_ok=True)
 README_TEMPLATE: str = """
 # 🧠 {title}
 
@@ -44,7 +46,7 @@ def fetch_problem_metadata(url: str) -> tuple[str, str, str]:
     # Extract slug from URL
     if not url.startswith("https://leetcode.com/problems/"):
         raise ValueError("URL must be a valid LeetCode problem URL.")
-    slug = url.strip("/").split("/")[-1]  # e.g., "two-sum"
+    slug = url.strip("/").split("/")[-2]  # e.g., "two-sum"
 
     # Prepare GraphQL query
     graphql_url = "https://leetcode.com/graphql"
@@ -78,12 +80,19 @@ def fetch_problem_metadata(url: str) -> tuple[str, str, str]:
 
 def create_problem_folder(name: str, difficulty: str, number: str, link: str) -> None:
     circle = {'easy': '🟢', 'medium': '🟡', 'hard': '🔴'}[difficulty.lower()]
-    folder = f"{number.zfill(4)}-{name}"
-    os.makedirs(folder, exist_ok=True)
+
+    subdir_name = f"{number.zfill(4)}-{name}"
+    folder_path = os.path.join(PROBLEMS_DIR, subdir_name)
+    os.makedirs(folder_path, exist_ok=True)
 
     # solution.py
-    with open(os.path.join(folder, "solution.py"), "w") as f:
-        f.write(f"# Solution for {name.replace('-', ' ').title()}\n")
+    sol_path = os.path.join(folder_path, "solution.py")
+    if not os.path.exists(sol_path):
+        with open(os.path.join(folder_path, "solution.py"), "w") as f:
+            f.write(f"# Solution for {name.replace('-', ' ').title()}\n")
+        print(f"Created `{folder_path}/` with solution.py")
+    else:
+        print(f"{sol_path} already exists, not overwriting.")
 
     readme_content = README_TEMPLATE.format(
         title=name.replace('-', ' ').title(),
@@ -92,9 +101,13 @@ def create_problem_folder(name: str, difficulty: str, number: str, link: str) ->
         link=link
     )
     # README.md
-    with open(os.path.join(folder, "README.md"), "w", encoding="utf-8") as f:
-        f.write(readme_content)
-    print(f"Created `{folder}/` with README.md and solution.py.")
+    readme_path = os.path.join(folder_path, "README.md")
+    if not os.path.exists(readme_path):
+        with open(os.path.join(folder_path, "README.md"), "w", encoding="utf-8") as f:
+            f.write(readme_content)
+        print(f"Created `{folder_path}/` with README.md")
+    else:
+        print(f"{sol_path} already exists, not overwriting.")
 
 
 if __name__ == "__main__":

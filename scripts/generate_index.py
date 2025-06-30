@@ -18,6 +18,7 @@ EXT_TO_LANG: Dict[str, str] = {
     ".py": "Python",
     ".cpp": "C++",
 }
+PROBLEMS_DIR = "problems"
 
 
 def scan_difficulty(readme_path: str, max_lines: int = 20) -> str:
@@ -50,21 +51,22 @@ def detect_languages(folder: str) -> Set[str]:
 def get_problems() -> Tuple[List[ProblemEntry], List[str]]:
     problems: List[ProblemEntry] = []
     global_langs: Set[str] = {"Python"}
-    for folder in sorted(os.listdir(".")):
+    for folder in sorted(os.listdir(PROBLEMS_DIR)):
+        full_folder_path = os.path.join(PROBLEMS_DIR, folder)
         if not re.match(r"\d{4}-", folder):
             continue
 
         number, name = folder.split('-', 1)
-        readme_path = os.path.join(folder, "README.md")
+        readme_path = os.path.join(full_folder_path, "README.md")
         difficulty = scan_difficulty(readme_path)
-        langs = detect_languages(folder)
+        langs = detect_languages(full_folder_path)
         global_langs.update(langs)
 
         problems.append(
             ProblemEntry(
                 number=number,
                 title=name.replace("-", " ").title(),
-                folder=folder,
+                folder=f"{PROBLEMS_DIR}/{folder}",
                 difficulty=difficulty,
                 langs=langs,
             )

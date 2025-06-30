@@ -2,7 +2,7 @@
 # 🧠 Palindrome Number
 
 > **Difficulty:** 🟢 **Easy**\
-> 📎 [View on LeetCode](https://leetcode.com/problems/palindrome-number/)
+> 📎 [View on LeetCode](https://leetcode.com/problems/palindrome-number/description/)
 
 ---
 
