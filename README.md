@@ -45,6 +45,7 @@ leetcode-solutions/
 
 | Number | Problem | Difficulty | Python |
 |--------|--------|--------|--------|
+| 0009 | [Palindrome Number](./0009-palindrome-number/) | 🟢 | ✔️ |
 
 </details>
 
