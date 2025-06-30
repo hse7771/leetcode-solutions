@@ -46,6 +46,7 @@ leetcode-solutions/
 | Number | Problem | Difficulty | Python |
 |--------|--------|--------|--------|
 | 0009 | [Palindrome Number](./problems/0009-palindrome-number/) | 🟢 | ✔️ |
+| 0713 | [Subarray Product Less Than K](./problems/0713-subarray-product-less-than-k/) | 🟡 | ✔️ |
 
 </details>
 
