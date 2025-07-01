@@ -51,6 +51,7 @@ leetcode-solutions/
 | 0028 | [Find The Index Of The First Occurrence In A String](./problems/0028-find-the-index-of-the-first-occurrence-in-a-string/) | 🟢 | ✔️ |
 | 0035 | [Search Insert Position](./problems/0035-search-insert-position/) | 🟢 | ✔️ |
 | 0058 | [Length Of Last Word](./problems/0058-length-of-last-word/) | 🟢 | ✔️ |
+| 0066 | [Plus One](./problems/0066-plus-one/) | 🟢 | ✔️ |
 | 0205 | [Isomorphic Strings](./problems/0205-isomorphic-strings/) | 🟢 | ✔️ |
 | 0713 | [Subarray Product Less Than K](./problems/0713-subarray-product-less-than-k/) | 🟡 | ✔️ |
 | 1544 | [Make The String Great](./problems/1544-make-the-string-great/) | 🟢 | ✔️ |
