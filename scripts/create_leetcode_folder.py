@@ -35,6 +35,7 @@ README_TEMPLATE: str = """
 ```python3 []
 class Solution:
     def ...
+```
 
 """
 
