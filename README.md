@@ -48,6 +48,7 @@ leetcode-solutions/
 | 0009 | [Palindrome Number](./problems/0009-palindrome-number/) | 🟢 | ✔️ |
 | 0020 | [Valid Parentheses](./problems/0020-valid-parentheses/) | 🟢 | ✔️ |
 | 0021 | [Merge Two Sorted Lists](./problems/0021-merge-two-sorted-lists/) | 🟢 | ✔️ |
+| 0028 | [Find The Index Of The First Occurrence In A String](./problems/0028-find-the-index-of-the-first-occurrence-in-a-string/) | 🟢 | ✔️ |
 | 0035 | [Search Insert Position](./problems/0035-search-insert-position/) | 🟢 | ✔️ |
 | 0058 | [Length Of Last Word](./problems/0058-length-of-last-word/) | 🟢 | ✔️ |
 | 0205 | [Isomorphic Strings](./problems/0205-isomorphic-strings/) | 🟢 | ✔️ |
