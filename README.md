@@ -49,6 +49,7 @@ leetcode-solutions/
 | 0020 | [Valid Parentheses](./problems/0020-valid-parentheses/) | 🟢 | ✔️ |
 | 0021 | [Merge Two Sorted Lists](./problems/0021-merge-two-sorted-lists/) | 🟢 | ✔️ |
 | 0713 | [Subarray Product Less Than K](./problems/0713-subarray-product-less-than-k/) | 🟡 | ✔️ |
+| 1544 | [Make The String Great](./problems/1544-make-the-string-great/) | 🟢 | ✔️ |
 
 </details>
 
