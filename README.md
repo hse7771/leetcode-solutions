@@ -71,6 +71,7 @@ To add a new problem folder automatically:
 | 0009 | [Palindrome Number](./problems/0009-palindrome-number/) | 🟢 | ✔️ |
 | 0012 | [Integer To Roman](./problems/0012-integer-to-roman/) | 🟡 | ✔️ |
 | 0013 | [Roman To Integer](./problems/0013-roman-to-integer/) | 🟢 | ✔️ |
+| 0014 | [Longest Common Prefix](./problems/0014-longest-common-prefix/) | 🟢 | ✔️ |
 | 0020 | [Valid Parentheses](./problems/0020-valid-parentheses/) | 🟢 | ✔️ |
 | 0021 | [Merge Two Sorted Lists](./problems/0021-merge-two-sorted-lists/) | 🟢 | ✔️ |
 | 0028 | [Find The Index Of The First Occurrence In A String](./problems/0028-find-the-index-of-the-first-occurrence-in-a-string/) | 🟢 | ✔️ |
