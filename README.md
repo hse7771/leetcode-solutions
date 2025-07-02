@@ -30,6 +30,27 @@ leetcode-solutions/
 
 ---
 
+## 🛠️ Automation & Scripts
+
+This repository is maintained with the help of custom Python scripts:
+
+- **Folder Generation:**  
+  Use [`scripts/create_leetcode_folder.py`](./scripts/create_leetcode_folder.py) to automatically generate a new problem folder with the correct naming, solution template, and README for each LeetCode problem.
+
+- **Dynamic Indexing:**  
+  The [`scripts/generate_index.py`](./scripts/generate_index.py) script scans all problems and updates the [README index](./README.md) with an up-to-date table of solved problems and available languages.  
+  This script is run automatically via [GitHub Actions](./.github/workflows/update-readme.yml) on every push that changes solutions or documentation.
+
+### 🚀 Creating a New Problem Folder
+
+To add a new problem folder automatically:
+
+```bash
+  python scripts/create_leetcode_folder.py leetcode-problem-url
+```
+
+---
+
 ## 🏷️ Difficulty Legend
 
 - **Easy** 🟢
