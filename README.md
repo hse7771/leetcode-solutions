@@ -66,6 +66,7 @@ To add a new problem folder automatically:
 
 | Number | Problem | Difficulty | Python |
 |--------|--------|--------|--------|
+| 0008 | [String To Integer (Atoi)](./problems/0008-string-to-integer-(atoi)/) | 🟡 | ✔️ |
 | 0009 | [Palindrome Number](./problems/0009-palindrome-number/) | 🟢 | ✔️ |
 | 0012 | [Integer To Roman](./problems/0012-integer-to-roman/) | 🟡 | ✔️ |
 | 0013 | [Roman To Integer](./problems/0013-roman-to-integer/) | 🟢 | ✔️ |
