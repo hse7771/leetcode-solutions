@@ -76,6 +76,7 @@ To add a new problem folder automatically:
 | 0020 | [Valid Parentheses](./problems/0020-valid-parentheses/) | 🟢 | ✔️ |
 | 0021 | [Merge Two Sorted Lists](./problems/0021-merge-two-sorted-lists/) | 🟢 | ✔️ |
 | 0028 | [Find The Index Of The First Occurrence In A String](./problems/0028-find-the-index-of-the-first-occurrence-in-a-string/) | 🟢 | ✔️ |
+| 0034 | [Find First And Last Position Of Element In Sorted Array](./problems/0034-find-first-and-last-position-of-element-in-sorted-array/) | 🟡 | ✔️ |
 | 0035 | [Search Insert Position](./problems/0035-search-insert-position/) | 🟢 | ✔️ |
 | 0058 | [Length Of Last Word](./problems/0058-length-of-last-word/) | 🟢 | ✔️ |
 | 0066 | [Plus One](./problems/0066-plus-one/) | 🟢 | ✔️ |
