@@ -80,6 +80,7 @@ To add a new problem folder automatically:
 | 0066 | [Plus One](./problems/0066-plus-one/) | 🟢 | ✔️ |
 | 0069 | [Sqrt(X)](./problems/0069-sqrt(x)/) | 🟢 | ✔️ |
 | 0070 | [Climbing Stairs](./problems/0070-climbing-stairs/) | 🟢 | ✔️ |
+| 0088 | [Merge Sorted Array](./problems/0088-merge-sorted-array/) | 🟢 | ✔️ |
 | 0205 | [Isomorphic Strings](./problems/0205-isomorphic-strings/) | 🟢 | ✔️ |
 | 0713 | [Subarray Product Less Than K](./problems/0713-subarray-product-less-than-k/) | 🟡 | ✔️ |
 | 1544 | [Make The String Great](./problems/1544-make-the-string-great/) | 🟢 | ✔️ |
