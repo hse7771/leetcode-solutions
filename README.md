@@ -85,6 +85,7 @@ To add a new problem folder automatically:
 | 0070 | [Climbing Stairs](./problems/0070-climbing-stairs/) | 🟢 | ✔️ |
 | 0083 | [Remove Duplicates From Sorted List](./problems/0083-remove-duplicates-from-sorted-list/) | 🟢 | ✔️ |
 | 0088 | [Merge Sorted Array](./problems/0088-merge-sorted-array/) | 🟢 | ✔️ |
+| 0100 | [Same Tree](./problems/0100-same-tree/) | 🟢 | ✔️ |
 | 0104 | [Maximum Depth Of Binary Tree](./problems/0104-maximum-depth-of-binary-tree/) | 🟢 | ✔️ |
 | 0203 | [Remove Linked List Elements](./problems/0203-remove-linked-list-elements/) | 🟢 | ✔️ |
 | 0205 | [Isomorphic Strings](./problems/0205-isomorphic-strings/) | 🟢 | ✔️ |
