@@ -67,6 +67,7 @@ To add a new problem folder automatically:
 | Number | Problem | Difficulty | Python |
 |--------|--------|--------|--------|
 | 0002 | [Add Two Numbers](./problems/0002-add-two-numbers/) | 🟡 | ✔️ |
+| 0006 | [Zigzag Conversion](./problems/0006-zigzag-conversion/) | 🟡 | ✔️ |
 | 0007 | [Reverse Integer](./problems/0007-reverse-integer/) | 🟡 | ✔️ |
 | 0008 | [String To Integer (Atoi)](./problems/0008-string-to-integer-(atoi)/) | 🟡 | ✔️ |
 | 0009 | [Palindrome Number](./problems/0009-palindrome-number/) | 🟢 | ✔️ |
