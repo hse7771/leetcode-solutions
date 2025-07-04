@@ -90,6 +90,7 @@ To add a new problem folder automatically:
 | 0112 | [Path Sum](./problems/0112-path-sum/) | 🟢 | ✔️ |
 | 0168 | [Excel Sheet Column Title](./problems/0168-excel-sheet-column-title/) | 🟢 | ✔️ |
 | 0171 | [Excel Sheet Column Number](./problems/0171-excel-sheet-column-number/) | 🟢 | ✔️ |
+| 0202 | [Happy Number](./problems/0202-happy-number/) | 🟢 | ✔️ |
 | 0203 | [Remove Linked List Elements](./problems/0203-remove-linked-list-elements/) | 🟢 | ✔️ |
 | 0205 | [Isomorphic Strings](./problems/0205-isomorphic-strings/) | 🟢 | ✔️ |
 | 0231 | [Power Of Two](./problems/0231-power-of-two/) | 🟢 | ✔️ |
