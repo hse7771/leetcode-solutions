@@ -81,6 +81,7 @@ To add a new problem folder automatically:
 | 0035 | [Search Insert Position](./problems/0035-search-insert-position/) | 🟢 | ✔️ |
 | 0058 | [Length Of Last Word](./problems/0058-length-of-last-word/) | 🟢 | ✔️ |
 | 0066 | [Plus One](./problems/0066-plus-one/) | 🟢 | ✔️ |
+| 0067 | [Add Binary](./problems/0067-add-binary/) | 🟢 | ✔️ |
 | 0069 | [Sqrt(X)](./problems/0069-sqrt(x)/) | 🟢 | ✔️ |
 | 0070 | [Climbing Stairs](./problems/0070-climbing-stairs/) | 🟢 | ✔️ |
 | 0083 | [Remove Duplicates From Sorted List](./problems/0083-remove-duplicates-from-sorted-list/) | 🟢 | ✔️ |
