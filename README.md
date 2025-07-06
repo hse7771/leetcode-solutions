@@ -90,6 +90,7 @@ To add a new problem folder automatically:
 | 0104 | [Maximum Depth Of Binary Tree](./problems/0104-maximum-depth-of-binary-tree/) | 🟢 | ✔️ |
 | 0112 | [Path Sum](./problems/0112-path-sum/) | 🟢 | ✔️ |
 | 0121 | [Best Time To Buy And Sell Stock](./problems/0121-best-time-to-buy-and-sell-stock/) | 🟢 | ✔️ |
+| 0148 | [Sort List](./problems/0148-sort-list/) | 🟡 | ✔️ |
 | 0168 | [Excel Sheet Column Title](./problems/0168-excel-sheet-column-title/) | 🟢 | ✔️ |
 | 0169 | [Majority Element](./problems/0169-majority-element/) | 🟢 | ✔️ |
 | 0171 | [Excel Sheet Column Number](./problems/0171-excel-sheet-column-number/) | 🟢 | ✔️ |
