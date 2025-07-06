@@ -97,6 +97,7 @@ To add a new problem folder automatically:
 | 0203 | [Remove Linked List Elements](./problems/0203-remove-linked-list-elements/) | 🟢 | ✔️ |
 | 0205 | [Isomorphic Strings](./problems/0205-isomorphic-strings/) | 🟢 | ✔️ |
 | 0231 | [Power Of Two](./problems/0231-power-of-two/) | 🟢 | ✔️ |
+| 0283 | [Move Zeroes](./problems/0283-move-zeroes/) | 🟢 | ✔️ |
 | 0713 | [Subarray Product Less Than K](./problems/0713-subarray-product-less-than-k/) | 🟡 | ✔️ |
 | 1544 | [Make The String Great](./problems/1544-make-the-string-great/) | 🟢 | ✔️ |
 
