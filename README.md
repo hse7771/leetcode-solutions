@@ -93,6 +93,7 @@ To add a new problem folder automatically:
 | 0112 | [Path Sum](./problems/0112-path-sum/) | 🟢 | ✔️ |
 | 0118 | [Pascal'S Triangle](./problems/0118-pascal's-triangle/) | 🟢 | ✔️ |
 | 0121 | [Best Time To Buy And Sell Stock](./problems/0121-best-time-to-buy-and-sell-stock/) | 🟢 | ✔️ |
+| 0125 | [Valid Palindrome](./problems/0125-valid-palindrome/) | 🟢 | ✔️ |
 | 0148 | [Sort List](./problems/0148-sort-list/) | 🟡 | ✔️ |
 | 0168 | [Excel Sheet Column Title](./problems/0168-excel-sheet-column-title/) | 🟢 | ✔️ |
 | 0169 | [Majority Element](./problems/0169-majority-element/) | 🟢 | ✔️ |
