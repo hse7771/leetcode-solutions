@@ -66,6 +66,7 @@ To add a new problem folder automatically:
 
 | Number | Problem | Difficulty | Python |
 |--------|--------|--------|--------|
+| 0001 | [Two Sum](./problems/0001-two-sum/) | 🟢 | ✔️ |
 | 0002 | [Add Two Numbers](./problems/0002-add-two-numbers/) | 🟡 | ✔️ |
 | 0006 | [Zigzag Conversion](./problems/0006-zigzag-conversion/) | 🟡 | ✔️ |
 | 0007 | [Reverse Integer](./problems/0007-reverse-integer/) | 🟡 | ✔️ |
