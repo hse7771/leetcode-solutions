@@ -104,6 +104,7 @@ To add a new problem folder automatically:
 | 0231 | [Power Of Two](./problems/0231-power-of-two/) | 🟢 | ✔️ |
 | 0283 | [Move Zeroes](./problems/0283-move-zeroes/) | 🟢 | ✔️ |
 | 0713 | [Subarray Product Less Than K](./problems/0713-subarray-product-less-than-k/) | 🟡 | ✔️ |
+| 1493 | [Longest Subarray Of 1'S After Deleting One Element](./problems/1493-longest-subarray-of-1's-after-deleting-one-element/) | 🟡 | ✔️ |
 | 1544 | [Make The String Great](./problems/1544-make-the-string-great/) | 🟢 | ✔️ |
 
 </details>
