@@ -105,6 +105,7 @@ To add a new problem folder automatically:
 | 0283 | [Move Zeroes](./problems/0283-move-zeroes/) | 🟢 | ✔️ |
 | 0438 | [Find All Anagrams In A String](./problems/0438-find-all-anagrams-in-a-string/) | 🟡 | ✔️ |
 | 0713 | [Subarray Product Less Than K](./problems/0713-subarray-product-less-than-k/) | 🟡 | ✔️ |
+| 0777 | [Swap Adjacent In Lr String](./problems/0777-swap-adjacent-in-lr-string/) | 🟡 | ✔️ |
 | 1493 | [Longest Subarray Of 1'S After Deleting One Element](./problems/1493-longest-subarray-of-1's-after-deleting-one-element/) | 🟡 | ✔️ |
 | 1544 | [Make The String Great](./problems/1544-make-the-string-great/) | 🟢 | ✔️ |
 
