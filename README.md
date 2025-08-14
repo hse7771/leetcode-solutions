@@ -105,6 +105,7 @@ To add a new problem folder automatically:
 | 0205 | [Isomorphic Strings](./problems/0205-isomorphic-strings/) | 🟢 | ✔️ |
 | 0231 | [Power Of Two](./problems/0231-power-of-two/) | 🟢 | ✔️ |
 | 0283 | [Move Zeroes](./problems/0283-move-zeroes/) | 🟢 | ✔️ |
+| 0350 | [Intersection Of Two Arrays Ii](./problems/0350-intersection-of-two-arrays-ii/) | 🟢 | ✔️ |
 | 0438 | [Find All Anagrams In A String](./problems/0438-find-all-anagrams-in-a-string/) | 🟡 | ✔️ |
 | 0713 | [Subarray Product Less Than K](./problems/0713-subarray-product-less-than-k/) | 🟡 | ✔️ |
 | 0777 | [Swap Adjacent In Lr String](./problems/0777-swap-adjacent-in-lr-string/) | 🟡 | ✔️ |
