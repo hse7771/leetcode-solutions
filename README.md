@@ -96,6 +96,7 @@ To add a new problem folder automatically:
 | 0121 | [Best Time To Buy And Sell Stock](./problems/0121-best-time-to-buy-and-sell-stock/) | 🟢 | ✔️ |
 | 0125 | [Valid Palindrome](./problems/0125-valid-palindrome/) | 🟢 | ✔️ |
 | 0148 | [Sort List](./problems/0148-sort-list/) | 🟡 | ✔️ |
+| 0167 | [Two Sum Ii   Input Array Is Sorted](./problems/0167-two-sum-ii---input-array-is-sorted/) | 🟡 | ✔️ |
 | 0168 | [Excel Sheet Column Title](./problems/0168-excel-sheet-column-title/) | 🟢 | ✔️ |
 | 0169 | [Majority Element](./problems/0169-majority-element/) | 🟢 | ✔️ |
 | 0171 | [Excel Sheet Column Number](./problems/0171-excel-sheet-column-number/) | 🟢 | ✔️ |
