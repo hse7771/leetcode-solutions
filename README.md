@@ -112,6 +112,7 @@ To add a new problem folder automatically:
 | 0713 | [Subarray Product Less Than K](./problems/0713-subarray-product-less-than-k/) | 🟡 | ✔️ |
 | 0771 | [Jewels And Stones](./problems/0771-jewels-and-stones/) | 🟢 | ✔️ |
 | 0777 | [Swap Adjacent In Lr String](./problems/0777-swap-adjacent-in-lr-string/) | 🟡 | ✔️ |
+| 0938 | [Range Sum Of Bst](./problems/0938-range-sum-of-bst/) | 🟢 | ✔️ |
 | 1493 | [Longest Subarray Of 1'S After Deleting One Element](./problems/1493-longest-subarray-of-1's-after-deleting-one-element/) | 🟡 | ✔️ |
 | 1544 | [Make The String Great](./problems/1544-make-the-string-great/) | 🟢 | ✔️ |
 
