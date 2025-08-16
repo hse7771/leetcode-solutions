@@ -110,6 +110,7 @@ To add a new problem folder automatically:
 | 0350 | [Intersection Of Two Arrays Ii](./problems/0350-intersection-of-two-arrays-ii/) | 🟢 | ✔️ |
 | 0387 | [First Unique Character In A String](./problems/0387-first-unique-character-in-a-string/) | 🟢 | ✔️ |
 | 0392 | [Is Subsequence](./problems/0392-is-subsequence/) | 🟢 | ✔️ |
+| 0415 | [Add Strings](./problems/0415-add-strings/) | 🟢 | ✔️ |
 | 0438 | [Find All Anagrams In A String](./problems/0438-find-all-anagrams-in-a-string/) | 🟡 | ✔️ |
 | 0713 | [Subarray Product Less Than K](./problems/0713-subarray-product-less-than-k/) | 🟡 | ✔️ |
 | 0771 | [Jewels And Stones](./problems/0771-jewels-and-stones/) | 🟢 | ✔️ |
