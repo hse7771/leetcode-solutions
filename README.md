@@ -77,6 +77,7 @@ To add a new problem folder automatically:
 | 0013 | [Roman To Integer](./problems/0013-roman-to-integer/) | 🟢 | ✔️ |
 | 0014 | [Longest Common Prefix](./problems/0014-longest-common-prefix/) | 🟢 | ✔️ |
 | 0016 | [3Sum Closest](./problems/0016-3sum-closest/) | 🟡 | ✔️ |
+| 0019 | [Remove Nth Node From End Of List](./problems/0019-remove-nth-node-from-end-of-list/) | 🟡 | ✔️ |
 | 0020 | [Valid Parentheses](./problems/0020-valid-parentheses/) | 🟢 | ✔️ |
 | 0021 | [Merge Two Sorted Lists](./problems/0021-merge-two-sorted-lists/) | 🟢 | ✔️ |
 | 0026 | [Remove Duplicates From Sorted Array](./problems/0026-remove-duplicates-from-sorted-array/) | 🟢 | ✔️ |
