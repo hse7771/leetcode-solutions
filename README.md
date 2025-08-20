@@ -81,6 +81,7 @@ To add a new problem folder automatically:
 | 0019 | [Remove Nth Node From End Of List](./problems/0019-remove-nth-node-from-end-of-list/) | 🟡 | ✔️ |
 | 0020 | [Valid Parentheses](./problems/0020-valid-parentheses/) | 🟢 | ✔️ |
 | 0021 | [Merge Two Sorted Lists](./problems/0021-merge-two-sorted-lists/) | 🟢 | ✔️ |
+| 0022 | [Generate Parentheses](./problems/0022-generate-parentheses/) | 🟡 | ✔️ |
 | 0026 | [Remove Duplicates From Sorted Array](./problems/0026-remove-duplicates-from-sorted-array/) | 🟢 | ✔️ |
 | 0028 | [Find The Index Of The First Occurrence In A String](./problems/0028-find-the-index-of-the-first-occurrence-in-a-string/) | 🟢 | ✔️ |
 | 0034 | [Find First And Last Position Of Element In Sorted Array](./problems/0034-find-first-and-last-position-of-element-in-sorted-array/) | 🟡 | ✔️ |
