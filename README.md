@@ -123,6 +123,7 @@ To add a new problem folder automatically:
 | 0443 | [String Compression](./problems/0443-string-compression/) | 🟡 | ✔️ |
 | 0523 | [Continuous Subarray Sum](./problems/0523-continuous-subarray-sum/) | 🟡 | ✔️ |
 | 0557 | [Reverse Words In A String Iii](./problems/0557-reverse-words-in-a-string-iii/) | 🟢 | ✔️ |
+| 0560 | [Subarray Sum Equals K](./problems/0560-subarray-sum-equals-k/) | 🟡 | ✔️ |
 | 0567 | [Permutation In String](./problems/0567-permutation-in-string/) | 🟡 | ✔️ |
 | 0713 | [Subarray Product Less Than K](./problems/0713-subarray-product-less-than-k/) | 🟡 | ✔️ |
 | 0771 | [Jewels And Stones](./problems/0771-jewels-and-stones/) | 🟢 | ✔️ |
