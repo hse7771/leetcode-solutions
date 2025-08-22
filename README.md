@@ -120,6 +120,7 @@ To add a new problem folder automatically:
 | 0438 | [Find All Anagrams In A String](./problems/0438-find-all-anagrams-in-a-string/) | 🟡 | ✔️ |
 | 0523 | [Continuous Subarray Sum](./problems/0523-continuous-subarray-sum/) | 🟡 | ✔️ |
 | 0557 | [Reverse Words In A String Iii](./problems/0557-reverse-words-in-a-string-iii/) | 🟢 | ✔️ |
+| 0567 | [Permutation In String](./problems/0567-permutation-in-string/) | 🟡 | ✔️ |
 | 0713 | [Subarray Product Less Than K](./problems/0713-subarray-product-less-than-k/) | 🟡 | ✔️ |
 | 0771 | [Jewels And Stones](./problems/0771-jewels-and-stones/) | 🟢 | ✔️ |
 | 0777 | [Swap Adjacent In Lr String](./problems/0777-swap-adjacent-in-lr-string/) | 🟡 | ✔️ |
