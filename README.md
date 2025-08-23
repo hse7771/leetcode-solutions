@@ -87,6 +87,7 @@ To add a new problem folder automatically:
 | 0034 | [Find First And Last Position Of Element In Sorted Array](./problems/0034-find-first-and-last-position-of-element-in-sorted-array/) | 🟡 | ✔️ |
 | 0035 | [Search Insert Position](./problems/0035-search-insert-position/) | 🟢 | ✔️ |
 | 0049 | [Group Anagrams](./problems/0049-group-anagrams/) | 🟡 | ✔️ |
+| 0055 | [Jump Game](./problems/0055-jump-game/) | 🟡 | ✔️ |
 | 0058 | [Length Of Last Word](./problems/0058-length-of-last-word/) | 🟢 | ✔️ |
 | 0066 | [Plus One](./problems/0066-plus-one/) | 🟢 | ✔️ |
 | 0067 | [Add Binary](./problems/0067-add-binary/) | 🟢 | ✔️ |
