@@ -102,6 +102,7 @@ To add a new problem folder automatically:
 | 0118 | [Pascal'S Triangle](./problems/0118-pascal's-triangle/) | 🟢 | ✔️ |
 | 0121 | [Best Time To Buy And Sell Stock](./problems/0121-best-time-to-buy-and-sell-stock/) | 🟢 | ✔️ |
 | 0125 | [Valid Palindrome](./problems/0125-valid-palindrome/) | 🟢 | ✔️ |
+| 0136 | [Single Number](./problems/0136-single-number/) | 🟢 | ✔️ |
 | 0148 | [Sort List](./problems/0148-sort-list/) | 🟡 | ✔️ |
 | 0167 | [Two Sum Ii   Input Array Is Sorted](./problems/0167-two-sum-ii---input-array-is-sorted/) | 🟡 | ✔️ |
 | 0168 | [Excel Sheet Column Title](./problems/0168-excel-sheet-column-title/) | 🟢 | ✔️ |
