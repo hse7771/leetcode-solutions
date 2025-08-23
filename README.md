@@ -89,6 +89,7 @@ To add a new problem folder automatically:
 | 0049 | [Group Anagrams](./problems/0049-group-anagrams/) | 🟡 | ✔️ |
 | 0055 | [Jump Game](./problems/0055-jump-game/) | 🟡 | ✔️ |
 | 0058 | [Length Of Last Word](./problems/0058-length-of-last-word/) | 🟢 | ✔️ |
+| 0061 | [Rotate List](./problems/0061-rotate-list/) | 🟡 | ✔️ |
 | 0066 | [Plus One](./problems/0066-plus-one/) | 🟢 | ✔️ |
 | 0067 | [Add Binary](./problems/0067-add-binary/) | 🟢 | ✔️ |
 | 0069 | [Sqrt(X)](./problems/0069-sqrt(x)/) | 🟢 | ✔️ |
