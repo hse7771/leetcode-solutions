@@ -116,6 +116,7 @@ To add a new problem folder automatically:
 | 0268 | [Missing Number](./problems/0268-missing-number/) | 🟢 | ✔️ |
 | 0283 | [Move Zeroes](./problems/0283-move-zeroes/) | 🟢 | ✔️ |
 | 0350 | [Intersection Of Two Arrays Ii](./problems/0350-intersection-of-two-arrays-ii/) | 🟢 | ✔️ |
+| 0380 | [Insert Delete Getrandom O(1)](./problems/0380-insert-delete-getrandom-o(1)/) | 🟡 | ✔️ |
 | 0387 | [First Unique Character In A String](./problems/0387-first-unique-character-in-a-string/) | 🟢 | ✔️ |
 | 0392 | [Is Subsequence](./problems/0392-is-subsequence/) | 🟢 | ✔️ |
 | 0415 | [Add Strings](./problems/0415-add-strings/) | 🟢 | ✔️ |
