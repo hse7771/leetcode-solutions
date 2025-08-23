@@ -113,6 +113,7 @@ To add a new problem folder automatically:
 | 0203 | [Remove Linked List Elements](./problems/0203-remove-linked-list-elements/) | 🟢 | ✔️ |
 | 0205 | [Isomorphic Strings](./problems/0205-isomorphic-strings/) | 🟢 | ✔️ |
 | 0206 | [Reverse Linked List](./problems/0206-reverse-linked-list/) | 🟢 | ✔️ |
+| 0221 | [Maximal Square](./problems/0221-maximal-square/) | 🟡 | ✔️ |
 | 0228 | [Summary Ranges](./problems/0228-summary-ranges/) | 🟢 | ✔️ |
 | 0231 | [Power Of Two](./problems/0231-power-of-two/) | 🟢 | ✔️ |
 | 0234 | [Palindrome Linked List](./problems/0234-palindrome-linked-list/) | 🟢 | ✔️ |
